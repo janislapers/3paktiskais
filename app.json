@@ -1,0 +1,12 @@
+{
+  "name": "3paktiskais",
+  "displayName": "3paktiskais",
+  "expo": {
+    "name": "3paktiskais",
+    "slug": "3paktiskais",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
